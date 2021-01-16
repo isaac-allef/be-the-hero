@@ -1,0 +1,3 @@
+[2020-04-23 17:50:40.658] [sharedprocess] [info] main {"machineId":"00424089b99e9e638dd7781fb5af797415e3d915147e3edaece53b5ef8768c7c","windowId":2}
+[2020-04-23 17:50:40.745] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/isaac/Documents/semanaOmniStack/www/be-the-hero/frontend/argument/User/snippets'
+[2020-04-23 17:51:20.681] [sharedprocess] [info] Starting to clean up unused language packs.

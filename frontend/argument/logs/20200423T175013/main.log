@@ -1,0 +1,4 @@
+[2020-04-23 17:50:14.430] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/isaac/Documents/semanaOmniStack/www/be-the-hero/frontend/argument/User'
+[2020-04-23 17:50:14.799] [main] [info] update#setState idle
+[2020-04-23 17:50:47.026] [main] [info] update#setState checking for updates
+[2020-04-23 17:50:47.423] [main] [info] update#setState idle
